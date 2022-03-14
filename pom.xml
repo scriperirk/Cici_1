@@ -63,7 +63,7 @@
                                     <element>BUNDLE</element>
                                     <limits>
                                         <limit>
-                                            <counter>BRANCH</counter>
+                                            <counter>BRANCH</counter> // т.к. считает процент выполнения кода в ветках if/else/switch
                                             <value>COVEREDRATIO</value>
                                             <minimum>0.70</minimum>
                                         </limit>
